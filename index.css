@@ -40,7 +40,10 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 25px;
-    background-image: url('peakpx (2).jpg') ;
+    background-image: url('https://cdn.dribbble.com/users/1664006/screenshots/14463665/media/2915819ff25877246745b2a5c7e99a22.png?resize=400x300&vertical=center');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .bottom{
     position: sticky;
